@@ -2,7 +2,7 @@
 #namespace: devops
 replicaCount: 1
 image:
-  repository: 975050137322.dkr.ecr.ap-south-1.amazonaws.com/rocket
+  repository: mohammed07/rock
   tag: v1
 containerPort: 80
 # service.yaml
